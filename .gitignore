@@ -11,4 +11,6 @@
 *.class
 Documentation/
 node_modules/
-Projects/mocolufa/
+mocolufa/
+.DS_Store
+.vscode/
